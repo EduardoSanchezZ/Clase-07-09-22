@@ -4,3 +4,6 @@ Este repositorio es donde estaré subiendo mis scripts de python sobre temas de 
 ![](https://media.giphy.com/media/WzPVwbTNBIBQDjdpeV/giphy-downsized-large.gif)
 
 [GIPHY](https://giphy.com/clips/uefa-euro-cup-2020-uefa-RNlgWpfnRNRGBES99r)
+
+
+Rosa Guerrero está colaborando en este repositorio con Eduardo 
