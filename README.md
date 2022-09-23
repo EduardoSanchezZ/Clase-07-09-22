@@ -11,9 +11,9 @@ Rosa Guerrero está colaborando en este repositorio con Eduardo
 
 
 <br>
-Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
+Maestría en Ciencia de Datos de Posgrados CUCEA de la [Universidad de Guadalajara](https://www.udg.mx/)  
 
 ![](https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_II/main/actividades/img/MCD_logo.png)
 
-![Referencias](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II.git)
+[Referencias](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II.git)
 
